@@ -1,0 +1,32 @@
+#container {
+  max-width: 400px;
+  margin: 25px;
+  padding: 20px;
+  font-size: 14px;
+  font-family: sans-serif;
+}
+
+footer {
+  padding: 5px;
+  background: whiteSmoke;
+  border: solid 1px #DDD;
+}
+
+footer h4 { margin-bottom: 5px; }
+
+footer code {
+  font-size: 10px;
+  background-color: white;
+}
+
+ul li a {
+  text-decoration: none;
+  border-bottom: dotted 1px #000;
+  line-height: 24px;
+  color: #000;
+}
+
+ul li a:hover {
+  border-bottom: solid 1px #000;
+}
+
